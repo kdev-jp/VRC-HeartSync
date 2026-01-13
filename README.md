@@ -1,8 +1,8 @@
 # VRC HeartSync
 
-![VRC HeartSyncの画像]()
+![VRC HeartSyncの画像](https://github.com/kdev-jp/VRC-HeartSync/blob/d93d4cd7c223a6979ea224859aefc9c877467939/docs-assets/images/VRC-HeartSync_1.png)
 
-![VRC HeartSyncの使用例]()
+![VRC HeartSyncの使用例](https://github.com/kdev-jp/VRC-HeartSync/blob/d93d4cd7c223a6979ea224859aefc9c877467939/docs-assets/images/VRC-HeartSync_2.png)
 
 スマートウォッチなどから取得した心拍数を、VRChatのアバター上にリアルタイムで表示できるギミックです。
 
