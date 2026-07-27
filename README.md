@@ -4,7 +4,7 @@
 
 ![VRC HeartSyncの使用例](https://github.com/kdev-jp/VRC-HeartSync/blob/d93d4cd7c223a6979ea224859aefc9c877467939/docs-assets/images/VRC-HeartSync_2.png)
 
-スマートウォッチなどから取得した心拍数を、VRChatのアバター上にリアルタイムで表示できるギミックです。
+スマートウォッチなどから取得した心拍数を、アバター上にリアルタイムで表示できるギミックです。
 
 心拍データの取得には、Pulsoid および VRCOSC（いずれも無料）の設定が必要です。
 
@@ -15,9 +15,7 @@ Modular Avatar に対応しているため、プレハブ を配置して位置�
 
 また、色の変更にも対応しています。
 
-詳しい導入方法は Wiki をご覧ください。
-
-不具合やご不明点がありましたら、GitHub Issuesからお気軽にご連絡ください。
+詳しくは、ドキュメントサイトをご覧ください。
 
 ## 対応デバイス
 Pulsoidで接続する場合<br>
