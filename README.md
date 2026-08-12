@@ -69,9 +69,6 @@ https://github.com/VolcanicArts/VRCOSC
 サメっ子オリジナル3Dモデル「rurune」-ルルネ- ©Paryi<br>
 https://booth.pm/ja/items/5957830
 
-## アップデート履歴
-2025-10-29 Ver.1.0.0 リリース
-
 ## Product Description
 The English version of this product description was created using machine translation.
 
