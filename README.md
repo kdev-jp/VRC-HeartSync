@@ -17,6 +17,8 @@ Modular Avatar に対応しているため、プレハブ を配置して位置�
 
 詳しくは、ドキュメントサイトをご覧ください。
 
+The English product description is provided after the Japanese version below.
+
 ## 対応デバイス
 Pulsoidで接続する場合<br>
 Apple Watch、Pixel Watch、Galaxy Watch、Fitbit、Garminなどで利用可能です。<br>
@@ -34,8 +36,6 @@ Bluetooth Low Energyに対応したスマートウォッチや心拍計が必要
 
 導入方法については、以下のサイトをご覧ください。
 
-Pulsoidのトークンの取得方法が変更されたため、導入方法を更新しました(2026年7月24日)
-
 導入方法<br>
 https://k-dev.notion.site/VRC-HeartSync-298645d6d70d8010a584ca7f0e439c1b
 
@@ -46,30 +46,14 @@ https://k-dev.notion.site/VRC-HeartSync-Setup-Guide-29b645d6d70d803ebf67c240a5d5
 https://k-dev.notion.site/VRC-HeartSync-Document-29a645d6d70d80408cdcff49b5c81401
 
 ## 利用規約
-本データをダウンロードする際は、以下の利用規約に同意したものとみなします。
-
-日本語版と他言語版との内容に差異が生じた場合は、日本語版の利用規約が優先されます。
-
-本規約は、あしやまひろこ氏が作成したVN3ライセンス（ https://www.vn3.org/ ）のテンプレートを使用しています。
-
-利用規約（JP）<br>
-https://www.dropbox.com/scl/fi/fvx1lldzsao83uyzetubs/VRCHeartSync_license_ja.pdf?rlkey=g7cm8el5k9wvtcbdxc43d4oik&st=xbd634d0&dl=0
-
-Terms of Use（EN）<br>
-https://www.dropbox.com/scl/fi/0ocqqpjo4ccrzyifzhxdj/VRCHeartSync_license_en.pdf?rlkey=ali0gpjntr86dz3e0y2m4ke79&st=0rwbq8iy&dl=0
-
-Terms of Use（ZH）<br>
-https://www.dropbox.com/scl/fi/hotq1a5jau7mf9j9aam44/VRCHeartSync_license_zh.pdf?rlkey=iotclpczx8oibsn73pykcik8o&st=mohmbjye&dl=0
-
-Terms of Use（KO）<br>
-https://www.dropbox.com/scl/fi/4zu2y9svpj579wqkkmbmz/VRCHeartSync_license_ko.pdf?rlkey=5v1hv9o4x1vmlbe69ple9tts3&st=znjq6rst&dl=0
+[ライセンスファイル](https://github.com/kdev-jp/VRC-HeartSync/blob/e448b05d2a672c8fdd937ef2c10ab2eea4c92792/LICENSE.md)をご覧ください。
 
 ## 注意事項
 本データの利用により生じた損害やトラブルについて、当方は一切責任を負いません。自己責任でご利用ください。
 
 Android(Quest)およびiOSは非対応です。
 
-VRChat や Pulsoid、VRCOSC の仕様変更により、正常に動作しなくなる場合があります。
+VRChatやPulsoid、VRCOSCの仕様変更により、正常に動作しなくなる場合があります。
 
 アバターは付属しません。
 
@@ -87,3 +71,47 @@ https://booth.pm/ja/items/5957830
 
 ## アップデート履歴
 2025-10-29 Ver.1.0.0 リリース
+
+## Product Description
+The English version of this product description was created using machine translation.
+
+This is a gimmick that allows you to display your heart rate, obtained from a smartwatch or similar device, on your avatar in real time.
+
+To acquire heart rate data, you need to configure Pulsoid and VRCOSC (both available for free).
+
+Although operation has not been confirmed with Bluetooth Low Energy (BLE) connections, it is expected to work without any issues in theory.
+
+Since this product supports Modular Avatar, you can easily install it by placing the prefab and adjusting its position.<br>
+By default, the heart rate is displayed on the Chest, but you can easily change the position through simple settings.
+
+Color customization is also supported.
+
+For detailed instructions, please refer to the documentation website.
+
+## Supported Devices
+When connecting via Pulsoid:<br>
+Compatible with devices such as Apple Watch, Pixel Watch, Galaxy Watch, Fitbit, Garmin, and more.<br>
+Please note that proper operation cannot be guaranteed in all environments.<br>
+For a detailed list of supported devices,
+
+please refer to the official Pulsoid website:<br>
+https://blog.pulsoid.net/monitors
+
+
+When connecting via Bluetooth Low Energy (BLE):<br>
+A smartwatch or heart rate monitor that supports Bluetooth Low Energy is required.
+
+## Setup Guide / Documentation
+We apologize for the inconvenience, but in some environments, the documentation site may not display correctly.<br>
+If this occurs, please try viewing it in a different browser.
+
+For setup instructions, please refer to the following pages:
+
+Setup Guide (English)<br>
+https://k-dev.notion.site/VRC-HeartSync-Setup-Guide-29b645d6d70d803ebf67c240a5d55401
+
+Setup Guide (Japanese)<br>
+https://k-dev.notion.site/VRC-HeartSync-298645d6d70d8010a584ca7f0e439c1b
+
+Documentation<br>
+https://k-dev.notion.site/VRC-HeartSync-Document-29a645d6d70d80408cdcff49b5c81401
