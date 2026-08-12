@@ -1,8 +1,8 @@
 # VRC HeartSync
 
-![VRC HeartSyncの画像](https://github.com/kdev-jp/VRC-HeartSync/blob/d93d4cd7c223a6979ea224859aefc9c877467939/docs-assets/images/VRC-HeartSync_1.png)
+![「VRC HeartSync」の紹介画像。上部にModular Avatarのロゴがあり、中央に黄色い大きな数字で000と表示され、下部に「心拍数表示ギミック VRC HeartSync」と書かれている](https://github.com/kdev-jp/VRC-HeartSync/blob/d93d4cd7c223a6979ea224859aefc9c877467939/docs-assets/images/VRC-HeartSync_1.png)
 
-![VRC HeartSyncの使用例](https://github.com/kdev-jp/VRC-HeartSync/blob/d93d4cd7c223a6979ea224859aefc9c877467939/docs-assets/images/VRC-HeartSync_2.png)
+![VRC HeartSyncの使用例。水色の背景にVRChatの女性アバターが写っている。](https://github.com/kdev-jp/VRC-HeartSync/blob/d93d4cd7c223a6979ea224859aefc9c877467939/docs-assets/images/VRC-HeartSync_2.png)
 
 スマートウォッチなどから取得した心拍数を、アバター上にリアルタイムで表示できるギミックです。
 
