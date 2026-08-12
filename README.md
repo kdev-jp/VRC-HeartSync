@@ -46,7 +46,7 @@ https://k-dev.notion.site/VRC-HeartSync-Setup-Guide-29b645d6d70d803ebf67c240a5d5
 https://k-dev.notion.site/VRC-HeartSync-Document-29a645d6d70d80408cdcff49b5c81401
 
 ## 利用規約
-[ライセンスファイル](https://github.com/kdev-jp/VRC-HeartSync/blob/e448b05d2a672c8fdd937ef2c10ab2eea4c92792/LICENSE.md)をご覧ください。
+[ライセンスファイル](LICENSE.md)をご覧ください。
 
 ## 注意事項
 本データの利用により生じた損害やトラブルについて、当方は一切責任を負いません。自己責任でご利用ください。
