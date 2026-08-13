@@ -6,16 +6,16 @@
 
 スマートウォッチなどから取得した心拍数を、アバター上にリアルタイムで表示できるギミックです。
 
-心拍データの取得には、Pulsoid および VRCOSC（いずれも無料）の設定が必要です。
+心拍データの取得には、Pulsoid（API）および VRCOSC（いずれも無料）またはPulsoid Desktop OSCの設定が必要です。
 
 動作確認は行っていませんが、Bluetooth Low Energy 接続でも問題なく動作すると思われます。
 
-Modular Avatar に対応しているため、プレハブ を配置して位置を調整するだけで簡単に導入できます。
-デフォルトでは「Chest（胸）」に表示されますが、他の位置に移動させたい場合も簡単な設定で変更可能です。
+Modular Avatar に対応しているため、プレハブ を配置して位置を調整するだけで簡単に導入できます。<br>
+デフォルトでは「顔」に表示されますが、他の位置に移動させたい場合も簡単な設定で変更可能です。
 
 また、色の変更にも対応しています。
 
-詳しくは、ドキュメントサイトをご覧ください。
+詳しくは、導入方法をご覧ください。
 
 The English product description is provided after the Japanese version below.
 
@@ -30,20 +30,19 @@ https://blog.pulsoid.net/monitors
 Bluetooth Low Energyで接続する場合<br>
 Bluetooth Low Energyに対応したスマートウォッチや心拍計が必要です。
 
-## 導入方法・ドキュメント
-一部の環境において、ドキュメントサイトが正しく表示されない場合がございます。<br>
-その場合、お手数をおかけいたしますが、別のブラウザでの閲覧をお試しください。
-
+## 導入方法
 導入方法については、以下のサイトをご覧ください。
 
-導入方法<br>
-https://k-dev.notion.site/VRC-HeartSync-298645d6d70d8010a584ca7f0e439c1b
+OSCの設定方法<br>
+いずれかの利用が必要です。<br>
+【無料】VRCOSC<br>
+https://k-dev.notion.site/VRC-HeartSync-VRCOSC-298645d6d70d8010a584ca7f0e439c1b<br>
+【有料】Pulsoid Desktop OSC<br>
+https://k-dev.notion.site/VRC-HeartSync-Pulsoid-Desktop-OSC-298645d6d70d804ab7c8eeb6e4c408dc
 
-Setup Guide(English)<br>
-https://k-dev.notion.site/VRC-HeartSync-Setup-Guide-29b645d6d70d803ebf67c240a5d55401
-
-ドキュメント<br>
-https://k-dev.notion.site/VRC-HeartSync-Document-29a645d6d70d80408cdcff49b5c81401
+<br>
+アバターへのギミック導入方法<br>
+https://k-dev.notion.site/VRC-HeartSync-3bb645d6d70d808ba722f4d1b0628200
 
 ## 利用規約
 [ライセンスファイル](LICENSE.md)をご覧ください。
@@ -74,16 +73,16 @@ The English version of this product description was created using machine transl
 
 This is a gimmick that allows you to display your heart rate, obtained from a smartwatch or similar device, on your avatar in real time.
 
-To acquire heart rate data, you need to configure Pulsoid and VRCOSC (both available for free).
+To obtain heart rate data, you need to configure Pulsoid (API) and VRCOSC (both free) or Pulsoid Desktop OSC
 
 Although operation has not been confirmed with Bluetooth Low Energy (BLE) connections, it is expected to work without any issues in theory.
 
 Since this product supports Modular Avatar, you can easily install it by placing the prefab and adjusting its position.<br>
-By default, the heart rate is displayed on the Chest, but you can easily change the position through simple settings.
+By default, the heart rate is displayed on the Face, but you can easily change the position through simple settings.
 
 Color customization is also supported.
 
-For detailed instructions, please refer to the documentation website.
+For more details, please refer to the Setup Guide.
 
 ## Supported Devices
 When connecting via Pulsoid:<br>
@@ -98,17 +97,19 @@ https://blog.pulsoid.net/monitors
 When connecting via Bluetooth Low Energy (BLE):<br>
 A smartwatch or heart rate monitor that supports Bluetooth Low Energy is required.
 
-## Setup Guide / Documentation
+## Setup Guides
 We apologize for the inconvenience, but in some environments, the documentation site may not display correctly.<br>
 If this occurs, please try viewing it in a different browser.
 
-For setup instructions, please refer to the following pages:
+For detailed setup instructions, please refer to the following English guides:
 
-Setup Guide (English)<br>
-https://k-dev.notion.site/VRC-HeartSync-Setup-Guide-29b645d6d70d803ebf67c240a5d55401
+How to Configure OSC<br>
+You need to use one of the following options.<br>
+【Free】VRCOSC<br>
+https://k-dev.notion.site/VRC-HeartSync-Setup-Guide-VRCOSC-Installation-and-Configuration-29b645d6d70d803ebf67c240a5d55401<br>
+【Paid】Pulsoid Desktop OSC<br>
+https://k-dev.notion.site/VRC-HeartSync-Setup-Guide-Pulsoid-Desktop-OSC-Installation-and-Configuration-3bb645d6d70d8015b056d6e194a6f139
 
-Setup Guide (Japanese)<br>
-https://k-dev.notion.site/VRC-HeartSync-298645d6d70d8010a584ca7f0e439c1b
-
-Documentation<br>
-https://k-dev.notion.site/VRC-HeartSync-Document-29a645d6d70d80408cdcff49b5c81401
+<br>
+How to Install the Gimmick on Your Avatar<br>
+https://k-dev.notion.site/VRC-HeartSync-Setup-Guide-Avatar-Gimmick-Installation-3bb645d6d70d80c1a324e8d53fa6a46e
