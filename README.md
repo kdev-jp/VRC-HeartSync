@@ -6,7 +6,7 @@
 
 スマートウォッチなどから取得した心拍数を、アバター上にリアルタイムで表示できるギミックです。
 
-心拍データの取得には、Pulsoid（API）および VRCOSC（いずれも無料）またはPulsoid Desktop OSCの設定が必要です。
+心拍データの取得には、Pulsoid（API）および VRCOSC（いずれも無料）またはPulsoid OSCの設定が必要です。
 
 動作確認は行っていませんが、Bluetooth Low Energy 接続でも問題なく動作すると思われます。
 
@@ -20,7 +20,7 @@ Modular Avatar に対応しているため、プレハブ を配置して位置�
 The English product description is provided after the Japanese version below.
 
 ## 対応デバイス
-Pulsoidで接続する場合<br>
+Pulsoid APIおよびPulsoid Cloudで接続する場合<br>
 Apple Watch、Pixel Watch、Galaxy Watch、Fitbit、Garminなどで利用可能です。<br>
 ※ご利用環境によっては動作しない場合があります。
 
@@ -35,10 +35,11 @@ Bluetooth Low Energyに対応したスマートウォッチや心拍計が必要
 
 OSCの設定方法<br>
 いずれかの利用が必要です。<br>
+【有料】Pulsoid OSC<br>
+https://k-dev.notion.site/VRC-HeartSync-Pulsoid-Desktop-OSC-298645d6d70d804ab7c8eeb6e4c408dc
 【無料】VRCOSC<br>
 https://k-dev.notion.site/VRC-HeartSync-VRCOSC-298645d6d70d8010a584ca7f0e439c1b<br>
-【有料】Pulsoid Desktop OSC<br>
-https://k-dev.notion.site/VRC-HeartSync-Pulsoid-Desktop-OSC-298645d6d70d804ab7c8eeb6e4c408dc
+
 
 <br>
 アバターへのギミック導入方法<br>
@@ -73,7 +74,7 @@ The English version of this product description was created using machine transl
 
 This is a gimmick that allows you to display your heart rate, obtained from a smartwatch or similar device, on your avatar in real time.
 
-To obtain heart rate data, you need to configure Pulsoid (API) and VRCOSC (both free) or Pulsoid Desktop OSC
+To obtain heart rate data, you need to configure Pulsoid (API) and VRCOSC (both free) or Pulsoid OSC
 
 Although operation has not been confirmed with Bluetooth Low Energy (BLE) connections, it is expected to work without any issues in theory.
 
@@ -85,7 +86,7 @@ Color customization is also supported.
 For more details, please refer to the Setup Guide.
 
 ## Supported Devices
-When connecting via Pulsoid:<br>
+When using Pulsoid API or Pulsoid Cloud:<br>
 Compatible with devices such as Apple Watch, Pixel Watch, Galaxy Watch, Fitbit, Garmin, and more.<br>
 Please note that proper operation cannot be guaranteed in all environments.<br>
 For a detailed list of supported devices,
@@ -105,10 +106,11 @@ For detailed setup instructions, please refer to the following English guides:
 
 How to Configure OSC<br>
 You need to use one of the following options.<br>
-【Free】VRCOSC<br>
-https://k-dev.notion.site/VRC-HeartSync-Setup-Guide-VRCOSC-Installation-and-Configuration-29b645d6d70d803ebf67c240a5d55401<br>
 【Paid】Pulsoid Desktop OSC<br>
 https://k-dev.notion.site/VRC-HeartSync-Setup-Guide-Pulsoid-Desktop-OSC-Installation-and-Configuration-3bb645d6d70d8015b056d6e194a6f139
+【Free】VRCOSC<br>
+https://k-dev.notion.site/VRC-HeartSync-Setup-Guide-VRCOSC-Installation-and-Configuration-29b645d6d70d803ebf67c240a5d55401<br>
+
 
 <br>
 How to Install the Gimmick on Your Avatar<br>
