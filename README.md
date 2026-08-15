@@ -37,7 +37,7 @@ OSCの設定方法<br>
 Pulsoid OSCまたはVRCOSCのいずれかをご利用ください。
 
 【有料】Pulsoid OSC<br>
-https://k-dev.notion.site/VRC-HeartSync-Pulsoid-Desktop-OSC-298645d6d70d804ab7c8eeb6e4c408dc
+https://k-dev.notion.site/VRC-HeartSync-Pulsoid-OSC-298645d6d70d804ab7c8eeb6e4c408dc
 
 提供：Pulsoid<br>
 VRC HeartSyncの開発・動作検証のため、PulsoidよりBROプランの無償提供を受けています。<br>
@@ -116,7 +116,7 @@ OSC Setup<br>
 Please use either Pulsoid OSC or VRCOSC.
 
 【Paid】Pulsoid OSC<br>
-https://k-dev.notion.site/VRC-HeartSync-Setup-Guide-Pulsoid-Desktop-OSC-Installation-and-Configuration-3bb645d6d70d8015b056d6e194a6f139
+https://k-dev.notion.site/VRC-HeartSync-Setup-Guide-Pulsoid-OSC-Installation-and-Configuration-3bb645d6d70d8015b056d6e194a6f139
 
 Provided by: Pulsoid<br>
 Pulsoid provides the BRO plan free of charge for the development and testing of VRC HeartSync.<br>
