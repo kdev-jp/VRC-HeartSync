@@ -34,11 +34,19 @@ Bluetooth Low Energyに対応したスマートウォッチや心拍計が必要
 導入方法については、以下のサイトをご覧ください。
 
 OSCの設定方法<br>
-いずれかの利用が必要です。<br>
+Pulsoid OSCまたはVRCOSCのいずれかをご利用ください。
+
 【有料】Pulsoid OSC<br>
 https://k-dev.notion.site/VRC-HeartSync-Pulsoid-Desktop-OSC-298645d6d70d804ab7c8eeb6e4c408dc
+
+提供：Pulsoid<br>
+VRC HeartSyncの開発・動作検証のため、PulsoidよりBROプランの無償提供を受けています。<br>
+Pulsoid OSCについて<br>
+VRChatのチャットボックスへの心拍数表示機能や、Discordとの連携機能などがあります。<br>
+https://pulsoid.net/products/osc
+
 【無料】VRCOSC<br>
-https://k-dev.notion.site/VRC-HeartSync-VRCOSC-298645d6d70d8010a584ca7f0e439c1b<br>
+https://k-dev.notion.site/VRC-HeartSync-VRCOSC-298645d6d70d8010a584ca7f0e439c1b
 
 
 <br>
@@ -102,14 +110,22 @@ A smartwatch or heart rate monitor that supports Bluetooth Low Energy is require
 We apologize for the inconvenience, but in some environments, the documentation site may not display correctly.<br>
 If this occurs, please try viewing it in a different browser.
 
-For detailed setup instructions, please refer to the following English guides:
+The following page provides the setup guide in English.
 
-How to Configure OSC<br>
-You need to use one of the following options.<br>
-【Paid】Pulsoid Desktop OSC<br>
+OSC Setup<br>
+Please use either Pulsoid OSC or VRCOSC.
+
+【Paid】Pulsoid OSC<br>
 https://k-dev.notion.site/VRC-HeartSync-Setup-Guide-Pulsoid-Desktop-OSC-Installation-and-Configuration-3bb645d6d70d8015b056d6e194a6f139
+
+Provided by: Pulsoid<br>
+Pulsoid provides the BRO plan free of charge for the development and testing of VRC HeartSync.<br>
+About Pulsoid OSC<br>
+Pulsoid OSC includes features such as displaying heart rate in the VRChat chatbox and integrating with Discord.<br>
+https://pulsoid.net/products/osc
+
 【Free】VRCOSC<br>
-https://k-dev.notion.site/VRC-HeartSync-Setup-Guide-VRCOSC-Installation-and-Configuration-29b645d6d70d803ebf67c240a5d55401<br>
+https://k-dev.notion.site/VRC-HeartSync-Setup-Guide-VRCOSC-Installation-and-Configuration-29b645d6d70d803ebf67c240a5d55401
 
 
 <br>
