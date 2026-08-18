@@ -42,7 +42,7 @@ https://k-dev.notion.site/VRC-HeartSync-Pulsoid-OSC-298645d6d70d804ab7c8eeb6e4c4
 提供：Pulsoid<br>
 VRC HeartSyncの開発・動作検証のため、PulsoidよりBROプランの無償提供を受けています。<br>
 Pulsoid OSCについて<br>
-別途OSCツールを起動する必要がなく、心拍計からVRChatへ心拍データを直接送信できます。サーバーを経由せず、ローカルでデータが送信されます。<br>
+Pulsoid OSCを使用することで、別途OSCツールを起動することなくVRC HeartSyncを利用できます。<br>
 https://pulsoid.net/products/osc
 
 【無料】VRCOSC<br>
@@ -121,7 +121,7 @@ https://k-dev.notion.site/VRC-HeartSync-Setup-Guide-Pulsoid-OSC-Installation-and
 Provided by: Pulsoid<br>
 Pulsoid provides the BRO plan free of charge for the development and testing of VRC HeartSync.<br>
 About Pulsoid OSC<br>
-Pulsoid OSC does not require a separate OSC tool to be running. Heart rate data is sent directly from the heart rate monitor to VRChat without going through a server.<br>
+Pulsoid OSC allows VRC HeartSync to work without the need to run a separate OSC tool.<br>
 https://pulsoid.net/products/osc
 
 【Free】VRCOSC<br>
